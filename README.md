@@ -1,2 +1,2 @@
 # 01-Analisis-fundamental-y-basico-metalurgia
-Análisis de datos en hidrometalurgia
+Análisis de datos hidrometalúrgicos
