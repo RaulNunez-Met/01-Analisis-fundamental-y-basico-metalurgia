@@ -6,23 +6,23 @@ Este repositorio marca el inicio de mi inserción al área de programación con 
 
 ---
 
-## 📌 Resolver problemas de planta con código
+## Resolver problemas de planta con código
 
 Antes de aplicar modelos complejos, se debe dominar el lenguaje para evaluar el rendimiento y ritmo de la operación.
 
 **Hito 1:** Demostrar la capacidad de automatizar los cálculos de KPIs y las alertas de control, imitando la lógica que usaría un sistema en tiempo real.
 
-### 🛠️ Lo que hay en este Notebook (`01_funciones_metalurgicas.ipynb`):
+### Lo que hay en este Notebook (`01_funciones_metalurgicas.ipynb`):
 
-| Tarea Clave | ¿Qué Resuelve en la Planta? | Habilidad Técnica Demostrada |
+| Tarea Clave | ¿Qué se resuelve en planta? | Habilidad técnica demostrada |
 | :--- | :--- | :--- |
-| **Cálculo de Eficiencia y Control** | Evalúa la performance de Extracción de Cobre y genera **alertas inmediatas** si el rendimiento cae por debajo de los umbrales críticos (ej. bajo el 75%). | Funciones (`def`), Lógica Condicional (`if/else`), Tipado de Datos (`float`). |
-| **Monitoreo de Consumo de Ácido** | Revisa un historial de consumos de un periodo y detecta automáticamente **días anómalos** (consumo muy alto o muy bajo), que impactan directamente el costo operativo. | Uso eficiente de Bucles (`for`), Acumulación (`+=`), Detección de *Outliers*. |
+| **Control de eficiencia y recuperación** | Evalúa el rendimiento en la extracción y recuperación del cobre y genera **alertas inmediatas** si este cae más de lo esperado. | Funciones (`def`), Lógica Condicional (`if/else`), Tipado de Datos (`float`). |
+| **Monitoreo de consumo de ácido** | Revisa un historial de consumos de un periodo y detecta automáticamente **días anómalos** (consumo muy alto o muy bajo), que impactan directamente los costos del proceso. | Uso eficiente de Bucles (`for`), Acumulación (`+=`), Detección de *Outliers*. |
 
 ---
 
-## 🚀 Próximos Pasos (Construyendo el Motor de IA)
+## Siguiente paso (Construir el Motor de IA)
 
-Ya tenemos la lógica. El **siguiente paso** es equipar este análisis con la **velocidad** necesaria para manejar los datos de los sensores en tiempo real.
+El siguiente paso es equipar este análisis con la velocidad necesaria para manejar los datos de los sensores en tiempo real y acercarnos a la automatización.
 
-* **Día 3 - Práctica:** Introducción a **NumPy**, el motor de cálculo vectorial, para manipular grandes volúmenes de mediciones de pH, flujo, o leyes a la velocidad de la luz.
+Introducción a **NumPy**, el motor de cálculo vectorial, para manipular grandes volúmenes de mediciones de pH, flujo, o leyes.
